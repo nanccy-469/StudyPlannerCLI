@@ -1,0 +1,11 @@
+[
+  {
+    "id": "user-writing-1",
+    "title": "完成实验报告初稿",
+    "course": "软件工程",
+    "minutes": 90,
+    "deadline": "2026-10-20T23:59:00+08:00",
+    "priority": "high",
+    "source": "用户手动提供的演示任务，请修改日期和时长"
+  }
+]

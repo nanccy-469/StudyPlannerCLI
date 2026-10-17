@@ -1,0 +1,4 @@
+icalendar>=6.1,<7
+recurring-ical-events>=3.4,<4
+jsonschema>=4.23,<5
+tzdata>=2025.2

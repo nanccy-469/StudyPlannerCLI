@@ -1,0 +1,57 @@
+{
+  "tests_passed": 34,
+  "cli_checks": [
+    {
+      "command": "init-demo",
+      "exit_code": 0
+    },
+    {
+      "command": "search",
+      "exit_code": 0
+    },
+    {
+      "command": "calendar",
+      "exit_code": 0
+    },
+    {
+      "command": "plan",
+      "exit_code": 0
+    },
+    {
+      "command": "commit",
+      "exit_code": 0
+    },
+    {
+      "command": "commit",
+      "exit_code": 0
+    },
+    {
+      "command": "plan",
+      "exit_code": 0
+    },
+    {
+      "command": "calendar",
+      "exit_code": 1
+    },
+    {
+      "command": "demo",
+      "exit_code": 0
+    }
+  ],
+  "live_api_tested": true,
+  "sample_calendar_unchanged": true,
+  "demo_export_parsed_in_tests": true,
+  "validation_date": "2026-10-17",
+  "bigmodel_protocol_tested": true,
+  "nullable_arguments_regression_tested": true,
+  "repeated_error_guard_tested": true,
+  "live_regression": {
+    "model": "glm-5.3-flash",
+    "model_requests": 2,
+    "tool_calls": [
+      "course_rag_search"
+    ],
+    "tool_errors": 0,
+    "answer": "示例资料中，软件工程实验一（Agent实现与报告）截止于 2026-10-20 23:59。来源：data/tasks.json#/0。"
+  }
+}

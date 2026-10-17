@@ -1,0 +1,46 @@
+[
+  {
+    "id": "se-lab-1",
+    "title": "实验一 Agent实现与报告",
+    "course": "软件工程",
+    "kind": "assignment",
+    "minutes": 120,
+    "deadline": "2026-10-20T23:59:00+08:00",
+    "priority": "high",
+    "source": "data/tasks.json#/0",
+    "requirements": "提交可运行仓库、核心prompt、工具Schema和实验报告；本示例时长估计120分钟。"
+  },
+  {
+    "id": "se-exam-review",
+    "title": "软件工程期中复习",
+    "course": "软件工程",
+    "kind": "exam",
+    "minutes": 180,
+    "deadline": "2026-10-21T09:00:00+08:00",
+    "priority": "high",
+    "source": "data/tasks.json#/1",
+    "requirements": "周三09:00考试，复习需求分析与软件测试；示例估计180分钟。"
+  },
+  {
+    "id": "math-hw-3",
+    "title": "高数第三章作业",
+    "course": "高等数学",
+    "kind": "assignment",
+    "minutes": 90,
+    "deadline": "2026-10-23T23:59:00+08:00",
+    "priority": "medium",
+    "source": "data/tasks.json#/2",
+    "requirements": "完成第1至12题；示例估计90分钟。"
+  },
+  {
+    "id": "physics-exam-review",
+    "title": "大学物理期中复习",
+    "course": "大学物理",
+    "kind": "exam",
+    "minutes": 120,
+    "deadline": "2026-10-23T09:00:00+08:00",
+    "priority": "medium",
+    "source": "data/tasks.json#/3",
+    "requirements": "周五09:00考试，复习力学和热学；示例估计120分钟。"
+  }
+]

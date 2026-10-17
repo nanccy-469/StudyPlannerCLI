@@ -1,0 +1,31 @@
+[
+  {
+    "id": "软件工程",
+    "name": "软件工程",
+    "aliases": [
+      "软工",
+      "SE"
+    ],
+    "syllabus": "courses/software_engineering.md"
+  },
+  {
+    "id": "高等数学",
+    "name": "高等数学",
+    "aliases": [
+      "高数",
+      "数学",
+      "math"
+    ],
+    "syllabus": "courses/mathematics.md"
+  },
+  {
+    "id": "大学物理",
+    "name": "大学物理",
+    "aliases": [
+      "大物",
+      "物理",
+      "physics"
+    ],
+    "syllabus": "courses/physics.md"
+  }
+]

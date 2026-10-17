@@ -1,0 +1,6 @@
+{
+  "daily_start": "18:00",
+  "daily_end": "22:00",
+  "max_session_minutes": 60,
+  "break_minutes": 10
+}
